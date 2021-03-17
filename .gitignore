@@ -1,0 +1,6 @@
+__pycache__
+*/__pycache__
+data/*
+experiments/learning_rate
+*.tar
+*.log
